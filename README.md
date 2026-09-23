@@ -32,8 +32,3 @@ python task_manager.py
 python -m unittest -v
 ```
 
-## Data file
-
-The application creates `tasks.json` automatically after the first task is
-added. This file is local application data and is intentionally ignored by
-Git.
