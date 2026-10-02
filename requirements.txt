@@ -1,2 +1,0 @@
-# Python Task Manager
-# No external dependencies required.
